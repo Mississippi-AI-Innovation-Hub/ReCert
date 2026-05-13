@@ -1,0 +1,65 @@
+[
+  {
+    "certificate_id": "0001",
+    "domain": "mda1.gov",
+    "expiration_date": "2026-06-29",
+    "status": "ACTIVE",
+    "last_renewed": "2026-03-31"
+  },
+  {
+    "certificate_id": "0002",
+    "domain": "mda2.gov",
+    "expiration_date": "2026-06-11",
+    "status": "ACTIVE",
+    "last_renewed": "2026-03-13"
+  },
+  {
+    "certificate_id": "0003",
+    "domain": "mda3.gov",
+    "expiration_date": "2026-06-26",
+    "status": "ACTIVE",
+    "last_renewed": "2026-03-28"
+  },
+  {
+    "certificate_id": "0004",
+    "domain": "mda4.gov",
+    "expiration_date": "2026-07-14",
+    "status": "ACTIVE",
+    "last_renewed": "2026-04-15"
+  },
+  {
+    "certificate_id": "0005",
+    "domain": "mda5.gov",
+    "expiration_date": "2026-07-12",
+    "status": "ACTIVE",
+    "last_renewed": "2026-04-13"
+  },
+  {
+    "certificate_id": "0006",
+    "domain": "mda6.gov",
+    "expiration_date": "2026-06-19",
+    "status": "ACTIVE",
+    "last_renewed": "2026-03-21"
+  },
+  {
+    "certificate_id": "0007",
+    "domain": "mda7.gov",
+    "expiration_date": "2026-05-28",
+    "status": "ACTIVE",
+    "last_renewed": "2026-02-27"
+  },
+  {
+    "certificate_id": "0008",
+    "domain": "mda8.gov",
+    "expiration_date": "2026-07-02",
+    "status": "ACTIVE",
+    "last_renewed": "2026-04-03"
+  },
+  {
+    "certificate_id": "0009",
+    "domain": "mda9.gov",
+    "expiration_date": "2026-07-20",
+    "status": "ACTIVE",
+    "last_renewed": "2026-04-21"
+  }
+]
