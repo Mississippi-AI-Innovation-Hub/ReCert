@@ -82,11 +82,11 @@ ReCert follows a workflow-driven architecture:
 
 ## 👥 Team
 
-- [Tyler Brashears - Project Manager](https://drive.google.com/file/d/1X9UgJSlKCULRTSBPSY7APIu-xjWdGXx6/view?usp=drivesdk)
-- [Brady Moore – Frontend Developer](https://drive.google.com/file/d/1G6gyCN4jcQmig8AdrQ0vmifB_8hmsLdK/view?usp=drivesdk)
-- [Kevon Scales – Backend Developer](https://drive.google.com/file/d/110L8weRyb-LHgUMNLCg1Min_fdgyZ25p/view?usp=drivesdk)
-- [Nichaela Barella – Automation & Workflow Developer](https://drive.google.com/file/d/1ywFlyIQ8XvYicpAlIxDwx6f1itr_1K1p/view?usp=drivesdk)
-- [Abdurrahman Oyediran – Automation & Workflow Developer](https://drive.google.com/file/d/1wdY_45dGWZmSUSvzWqiikwM8W7vLp4jT/view?usp=drivesdk)
+- [Tyler Brashears - Project Manager]
+- [Brady Moore – Frontend Developer]
+- [Kevon Scales – Backend Developer]
+- [Nichaela Barella – Automation & Workflow Developer]
+- [Abdurrahman Oyediran – Automation & Workflow Developer]
 
 ---
 
